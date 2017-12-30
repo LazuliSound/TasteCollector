@@ -1,0 +1,22 @@
+Program untuk uji sensory metode temporal dominance sensation
+Program mendeteksi sensasi dominan dari makanan pada saat penguyahan terhadap waktu oleh penguji
+Program dioperasikan oleh penguji
+Program menyediakan list atribut sensory yang ditampilkan di layar komputer
+List atribut sensory bisa sewaktu-waktu diubah oleh pengguna
+Minimum atribut yang bisa ditambahkan adalah 5
+Maksimum atribut yang bisa ditambahkan adalah 15
+
+Cara pakai:
+1.Program meminta nama panelis dan nomor ulangan
+2.pada saat penguji memulai makanan, penguji memencat tombol start
+3.penguji lalu akan menekan tombol atribut dan direkam kapan waktu ditekannya
+4.disaat sensasi sudah habis, penguji menekan tombol stop
+
+data yang dihitung frekuensi
+frekuensi yang dihitung adalah 0.5 detik
+data yang dikeluarkan bisa dimasukkan ke excel
+data memuat nama panelis dan nomor ulangan
+data yang disimpan adalah individu per panelis per ulangan
+
+program bisa dengan mudah dicopy dan dan digunakan di banyak komputer
+OS yang dipakai adalah windows 32bit/64bit
